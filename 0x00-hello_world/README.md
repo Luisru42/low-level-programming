@@ -70,7 +70,7 @@ File	Description
 Author
 
 
-👤 Luis Gonzalez
+👤 Luis Gonzalez | 
 Software Developer | Full-Stack Engineer | Tech Enthusiast
 
 📧 gonzalez.engineer42@gmail.com
