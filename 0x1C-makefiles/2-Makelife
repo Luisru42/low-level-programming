@@ -1,0 +1,7 @@
+CC = gcc
+SRC = main.c phostos.c
+OBJ = ${SRC:.c=.o}
+NAME = phostos
+
+all: ${OBJ}
+	${CC} ${OBJ} -o ${NAME}
