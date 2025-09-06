@@ -12,7 +12,7 @@ The projects are organized in increasing difficulty, covering key concepts such 
 
 * Functions and nested loops
 
-* Debugging techniques
+* Debugging 
 
 * Pointers, arrays, and strings
 
